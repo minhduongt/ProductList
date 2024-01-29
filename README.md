@@ -19,7 +19,7 @@ This project template was initiated by using `Vite`
 This is a project which get a product list by fetching api from [Dummy Json](https://dummyjson.com/).
 Implemented functions: Infinite Scrolling, Search by name, Sort by category.
 
-First, install all need package:
+First, install all needed packages:
 
 ```
 npm install or yarn
