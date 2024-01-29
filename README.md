@@ -1,6 +1,6 @@
-This project template was initiated by using `Vite`
+### This project template was initiated by using `Vite`
 
-# Project Stack
+## Project Stack
 
 1. Fetch Query: `Axios`
 2. UI Component - `Material UI`
